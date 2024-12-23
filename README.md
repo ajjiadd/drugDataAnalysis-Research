@@ -34,5 +34,5 @@ The project includes an evaluation of model accuracy using metrics such as:
 To clone and run this project locally:  
 ```bash  
 git clone https://github.com/ajjiadd/drugDataAnalysis-Research.git
-cd <your-repository>  
+cd drugDataAnalysis-Research
 pip install pandas numpy matplotlib seaborn plotly scikit-learn
