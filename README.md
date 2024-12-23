@@ -1,7 +1,7 @@
 # Trends in Drug Addiction Over Time and Strategies for Reduction: A Data Visualization Study  
 
 ## Overview  
-This project analyzes trends in drug addiction over time using data visualization and statistical techniques. By leveraging datasets from trusted sources such as WHO, NIDA, and Kaggle, this research aims to uncover patterns, identify factors contributing to addiction, and propose strategies for its reduction.  
+This project analyzes trends in drug addiction over time using data visualization and statistical techniques. By leveraging datasets from trusted sources such as Department of Narcotics Control-Bangladesh, this research aims to uncover patterns, identify factors contributing to addiction, and propose strategies for its reduction.  
 
 ## Features  
 - **Data Collection and Analysis:** Organized data from various global sources.  
@@ -33,6 +33,6 @@ The project includes an evaluation of model accuracy using metrics such as:
 ## Installation  
 To clone and run this project locally:  
 ```bash  
-git clone https://github.com/<your-username>/<your-repository>.git  
+git clone https://github.com/ajjiadd/drugDataAnalysis-Research.git
 cd <your-repository>  
-pip install -r requirements.txt  
+pip install pandas numpy matplotlib seaborn plotly scikit-learn
